@@ -2,7 +2,7 @@
 
 CRUD (stands for CREATE/READ/UPDATE/DELETE) is a very basic operation done in any application development. If you are professional web apps developer, you are already master of CRUD operation
 
-If you are just a begineer download this app and try to understand this code.
+If you are just a beginner download this app and try to understand this code.
 
 If you have any queries email me contactviamails@gmail.com
 
